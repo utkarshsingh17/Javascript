@@ -1,7 +1,7 @@
 // //------Introduction----------
-// console.log("Hello World");
+//console.log("Hello World");
 // console.log('Crio.Do');
-// console.log(2);
+//console.log(2);
 
 //--------Primitive Data types-----
 // console.log(-3);
@@ -11,11 +11,11 @@
 // console.log(false);
 
 //-----typeof Operator----
-// console.log(typeof(2));
-// console.log(typeof("Crio.do"));
-// console.log(typeof(true));
+//console.log(typeof 2);
+//console.log(typeof "Crio.do");
+//console.log(typeof true);
 
-//console.log(typeof(typeof(5))); 
+//console.log(typeof(typeof(5)));
 
 //-----Use-case---VARIABLES
 // console.log("James");
@@ -71,7 +71,6 @@
 // let a = 13; // re-declaration is not allowed in let identifier
 // console.log(a);
 
-
 //-----Rules for Naming variables
 
 // var _a; //valid
@@ -79,11 +78,9 @@
 // var $a; // valid
 // var $a1 // valid
 
-
 // var var; //inavlid
 // var const; //invalid
 // var let; //invalid
-
 
 // Null & Undefined-------
 
@@ -95,4 +92,3 @@
 
 // var c =  undefined;
 // console.log(c);
-
